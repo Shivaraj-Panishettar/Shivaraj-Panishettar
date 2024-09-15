@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ROS , SLAM , C++ , Python , ML , DL**
 
-- 📫 How to reach me **shivrajamaresh@gmail.com**
+- 📫 How to reach me **shivrajpanishettar01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
